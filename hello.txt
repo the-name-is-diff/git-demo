@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-hello world11111 
-hello worsdasdasdld 
-=======
->>>>>>> hot-fix
+hello world 
+hello world
 hello world 
 hello world 
 hello world 
@@ -18,11 +15,9 @@ hello world
 hello world 
 hello world 
 hello world 
-<<<<<<< HEAD
-hello world22222
-
-=======
 hello world 
 hello world 
 hello world
->>>>>>> hot-fix
+hello world 
+hello world 
+hello world
